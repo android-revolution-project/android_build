@@ -47,7 +47,7 @@ PRODUCT_PACKAGES += \
     PrintSpooler \
     ProxyHandler \
     QuickSearchBox \
-    Settings \
+    #Settings
     SharedStorageBackup \
     Telecom \
     TeleService \
