@@ -47,11 +47,10 @@ PRODUCT_PACKAGES += \
     PrintSpooler \
     ProxyHandler \
     QuickSearchBox \
-    #Settings
     SharedStorageBackup \
     Telecom \
     TeleService \
     VpnDialogs \
     MmsService
-
+    #Settings
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
